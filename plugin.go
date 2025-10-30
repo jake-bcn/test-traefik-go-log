@@ -1,4 +1,4 @@
-package logplugin
+package plugin
 
 import (
 	"context"
