@@ -1,4 +1,4 @@
-package plugtest_traefik_go_log
+package test_traefik_go_log
 
 import (
 	"context"
